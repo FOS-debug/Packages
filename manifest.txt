@@ -1,1 +1,1 @@
-Test1|youtube.com
+Word_Processor|https://fos-debug.github.io/Packages/Word_Processor
