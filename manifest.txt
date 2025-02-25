@@ -1,2 +1,3 @@
 Word_Processor|https://fos-debug.github.io/Packages/Word_Processor
+Address_Book|https://fos-debug.github.io/Packages/Address_Book
 FFLocker|https://fos-debug.github.io/Packages/FFLocker
